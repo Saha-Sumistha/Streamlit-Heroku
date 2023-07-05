@@ -1,2 +1,2 @@
-# Streamlit-Heroku-TDS-Week8
+# Streamlit-Heroku
 This is a assignment for TDS week 8
